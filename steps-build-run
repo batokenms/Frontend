@@ -1,6 +1,6 @@
 # Steps to Build and Run
 
-docker-compose up --build
+docker-compose.yml up --build
 
 
 # Initialize the database:
